@@ -1,5 +1,8 @@
 # C-Language-Programing-
 
+![c](https://user-images.githubusercontent.com/99263882/153422108-46ccab8a-05e7-4591-940c-e880e2065fe0.jpg)
+
+
 The C programming language is a computer programming language that was developed to do system programming for the operating system UNIX and is an imperative programming language.
 The language itself has very few keywords, and most things are done using libraries, which are collections of code for them to be reused.
 C is highly portable language i.e. code written in one machine can be moved to other which is very important and powerful feature. 
