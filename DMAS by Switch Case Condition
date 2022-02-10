@@ -3,27 +3,27 @@
 
 int main()
 {
-	float a,b;
-	char oper;
+	float a,b; //if your number are in points then you need to take float instead of integer(int)
+	char oper; //if you need to initilize any letter so choose char
 	
-	printf("Enter two operands and 1 operator: ");
-	scanf("%f %f %c",&a,&b,&oper);
+	printf("Enter two operands and 1 operator: "); //It shows the output on screen
+	scanf("%f %f %c",&a,&b,&oper); //it take input from user
 	
 	switch(oper)
 	{
-		case '+':
+		case '+': //if user type + then this code perform addition
 			printf("\na+b = %f",a+b);
 			break;
       
-		case '-':
+		case '-': //if user type - then this code perform subtraction
 			printf("\na-b = %f", a-b);
 			break;
       
-		case '/':
-      printf("\na/b = %f", a/b);
+		case '/': //if user type / then this code perform division
+     			printf("\na/b = %f", a/b);
 			break;
       
-		default:
+		default: //if user type any other operation it will show the output that the operation is invalid
 			printf("\nInvalid operator!");
 			break;
 	}
