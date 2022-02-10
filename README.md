@@ -6,5 +6,3 @@ C is highly portable language i.e. code written in one machine can be moved to o
 C supports low level features like bit level programming and direct access to memory using pointer which is very useful for managing resource efficiently.
 Basic C Language Fundamentals include Character set, Identifiers, keyword, data types,
 Constants and variables, statements, expression, operators, precedence of operators, Input-output, Assignments, control structures decision making and branching.
-
-![c](https://user-images.githubusercontent.com/99263882/153419157-facd52ac-ce01-4222-bdee-97d9a3a4454c.jpg)
