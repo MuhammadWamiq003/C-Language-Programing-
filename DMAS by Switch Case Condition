@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include <cmath> // This body is use if we perform any mathematics operations
 
 int main()
 {
